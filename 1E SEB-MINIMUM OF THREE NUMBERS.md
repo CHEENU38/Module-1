@@ -15,6 +15,7 @@ To write a Python program to find the smallest between three integer numbers usi
 5. Terminate the program.
 
 ## PROGRAM
+```python
 
 
 num1 = int(input())
